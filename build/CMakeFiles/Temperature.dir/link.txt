@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTemperature.a  CMakeFiles/Temperature.dir/Temperature.cpp.o
+/usr/bin/ranlib libTemperature.a

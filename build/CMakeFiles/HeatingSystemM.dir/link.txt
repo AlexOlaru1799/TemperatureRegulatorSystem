@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHeatingSystemm.a  CMakeFiles/HeatingSystemm.dir/HeatingSystem.cpp.o
+/usr/bin/ranlib libHeatingSystemm.a

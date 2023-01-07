@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCoolingSystem.a  CMakeFiles/CoolingSystem.dir/CoolingSystem.cpp.o
+/usr/bin/ranlib libCoolingSystem.a

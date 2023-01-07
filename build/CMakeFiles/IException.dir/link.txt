@@ -1,0 +1,2 @@
+/usr/bin/ar qc libIException.a  CMakeFiles/IException.dir/IException.cpp.o
+/usr/bin/ranlib libIException.a

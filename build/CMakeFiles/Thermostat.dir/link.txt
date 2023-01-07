@@ -1,0 +1,2 @@
+/usr/bin/ar qc libThermostat.a  CMakeFiles/Thermostat.dir/Thermostat.cpp.o
+/usr/bin/ranlib libThermostat.a

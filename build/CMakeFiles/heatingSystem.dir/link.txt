@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/heatingSystem.dir/main.cpp.o  -o heatingSystem  libHeatingStation.a libTemperatureException.a libAException.a libIException.a libCoolingSystem.a libHeatingSystemm.a libATemperatureSystem.a libThermostat.a libTemperature.a libPreferencesSystem.a lib/libgtest.a -lpthread 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTemperatureException.a  CMakeFiles/TemperatureException.dir/TemperatureException.cpp.o
+/usr/bin/ranlib libTemperatureException.a

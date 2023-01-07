@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHeatingStation.a  CMakeFiles/HeatingStation.dir/HeatingStation.cpp.o
+/usr/bin/ranlib libHeatingStation.a

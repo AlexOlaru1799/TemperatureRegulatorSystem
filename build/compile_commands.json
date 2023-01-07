@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/mnt/c/Users/Oli/Desktop/HeatingSystem/build",
+  "command": "/usr/bin/g++   -I/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/include  -g   -o CMakeFiles/PreferencesSystem.dir/PreferencesSystem.cpp.o -c /mnt/c/Users/Oli/Desktop/HeatingSystem/PreferencesSystem.cpp",
+  "file": "/mnt/c/Users/Oli/Desktop/HeatingSystem/PreferencesSystem.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Oli/Desktop/HeatingSystem/build",
+  "command": "/usr/bin/g++   -I/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/include -isystem /mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googletest/include -isystem /mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googletest  -g   -o CMakeFiles/heatingSystem.dir/main.cpp.o -c /mnt/c/Users/Oli/Desktop/HeatingSystem/main.cpp",
+  "file": "/mnt/c/Users/Oli/Desktop/HeatingSystem/main.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Oli/Desktop/HeatingSystem/build",
+  "command": "/usr/bin/g++   -I/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/include  -g   -o CMakeFiles/Thermostat.dir/Thermostat.cpp.o -c /mnt/c/Users/Oli/Desktop/HeatingSystem/Thermostat.cpp",
+  "file": "/mnt/c/Users/Oli/Desktop/HeatingSystem/Thermostat.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Oli/Desktop/HeatingSystem/build",
+  "command": "/usr/bin/g++   -I/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/include  -g   -o CMakeFiles/Temperature.dir/Temperature.cpp.o -c /mnt/c/Users/Oli/Desktop/HeatingSystem/Temperature.cpp",
+  "file": "/mnt/c/Users/Oli/Desktop/HeatingSystem/Temperature.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Oli/Desktop/HeatingSystem/build",
+  "command": "/usr/bin/g++   -I/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/include  -g   -o CMakeFiles/IException.dir/IException.cpp.o -c /mnt/c/Users/Oli/Desktop/HeatingSystem/IException.cpp",
+  "file": "/mnt/c/Users/Oli/Desktop/HeatingSystem/IException.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Oli/Desktop/HeatingSystem/build",
+  "command": "/usr/bin/g++   -I/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/include  -g   -o CMakeFiles/AException.dir/AException.cpp.o -c /mnt/c/Users/Oli/Desktop/HeatingSystem/AException.cpp",
+  "file": "/mnt/c/Users/Oli/Desktop/HeatingSystem/AException.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Oli/Desktop/HeatingSystem/build",
+  "command": "/usr/bin/g++   -I/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/include  -g   -o CMakeFiles/HeatingSystemm.dir/HeatingSystem.cpp.o -c /mnt/c/Users/Oli/Desktop/HeatingSystem/HeatingSystem.cpp",
+  "file": "/mnt/c/Users/Oli/Desktop/HeatingSystem/HeatingSystem.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Oli/Desktop/HeatingSystem/build",
+  "command": "/usr/bin/g++   -I/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/include  -g   -o CMakeFiles/HeatingStation.dir/HeatingStation.cpp.o -c /mnt/c/Users/Oli/Desktop/HeatingSystem/HeatingStation.cpp",
+  "file": "/mnt/c/Users/Oli/Desktop/HeatingSystem/HeatingStation.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Oli/Desktop/HeatingSystem/build",
+  "command": "/usr/bin/g++   -I/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/include  -g   -o CMakeFiles/CoolingSystem.dir/CoolingSystem.cpp.o -c /mnt/c/Users/Oli/Desktop/HeatingSystem/CoolingSystem.cpp",
+  "file": "/mnt/c/Users/Oli/Desktop/HeatingSystem/CoolingSystem.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Oli/Desktop/HeatingSystem/build",
+  "command": "/usr/bin/g++   -I/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/include  -g   -o CMakeFiles/TemperatureException.dir/TemperatureException.cpp.o -c /mnt/c/Users/Oli/Desktop/HeatingSystem/TemperatureException.cpp",
+  "file": "/mnt/c/Users/Oli/Desktop/HeatingSystem/TemperatureException.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Oli/Desktop/HeatingSystem/build",
+  "command": "/usr/bin/g++   -I/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/include  -g   -o CMakeFiles/ATemperatureSystem.dir/ATemperatureSystem.cpp.o -c /mnt/c/Users/Oli/Desktop/HeatingSystem/ATemperatureSystem.cpp",
+  "file": "/mnt/c/Users/Oli/Desktop/HeatingSystem/ATemperatureSystem.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Oli/Desktop/HeatingSystem/build/googletest/googlemock",
+  "command": "/usr/bin/g++   -isystem /mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googlemock/include -isystem /mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googlemock -isystem /mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googletest/include -isystem /mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googletest  -g   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googlemock/src/gmock_main.cc",
+  "file": "/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/mnt/c/Users/Oli/Desktop/HeatingSystem/build/googletest/googlemock",
+  "command": "/usr/bin/g++   -I/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googlemock/include -I/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googlemock -isystem /mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googletest/include -isystem /mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googletest  -g   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googlemock/src/gmock-all.cc",
+  "file": "/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/mnt/c/Users/Oli/Desktop/HeatingSystem/build/googletest/googletest",
+  "command": "/usr/bin/g++   -isystem /mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googletest/include -isystem /mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googletest  -g   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googletest/src/gtest_main.cc",
+  "file": "/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/mnt/c/Users/Oli/Desktop/HeatingSystem/build/googletest/googletest",
+  "command": "/usr/bin/g++   -I/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googletest/include -I/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googletest  -g   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googletest/src/gtest-all.cc",
+  "file": "/mnt/c/Users/Oli/Desktop/HeatingSystem/googletest/googletest/src/gtest-all.cc"
+}
+]

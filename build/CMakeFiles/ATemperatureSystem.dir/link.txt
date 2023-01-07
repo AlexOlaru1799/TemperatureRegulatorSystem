@@ -1,0 +1,2 @@
+/usr/bin/ar qc libATemperatureSystem.a  CMakeFiles/ATemperatureSystem.dir/ATemperatureSystem.cpp.o
+/usr/bin/ranlib libATemperatureSystem.a
